@@ -3,7 +3,7 @@
 
 <img  src="DemoAnki.gif" alt="Anki Demo" width="100%" style="border-radius:10px;overflow:hidden">
 
-* [Link tải](https://apps.ankiweb.net/index.html)<br>
+* [Link tải từ trang chủ Anki](https://apps.ankiweb.net/index.html)<br>
 * Sau khi tải về thì cài đặt vào máy như những ứng dụng thông thường khác
 
 * Link tham khảo cách cài của anh Hiếu Cao (Youtube Video : [here](https://www.youtube.com/watch?v=co1RDLAKTZA&list=PLi4u4PuK0hW88DuH-t9TF2fWip5dP2j1B))<br>
