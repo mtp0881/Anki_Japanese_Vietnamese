@@ -30,4 +30,4 @@ Lúc cài về `Anki` trống trơn, tùy mục đích học mà có thể thêm
 
 ##### Tham khảo các bộ thẻ (Anki Decks) được chia sẻ công khai ở đây ([here](https://ankiweb.net/shared/decks/japanese))
 
-_Update 2022/03/02_
+<p dir='rtl'>_Update 2022/03/02_</p>
