@@ -1,5 +1,5 @@
 ## Học Tiếng Nhật với Anki (Flashcard, Spaced repetition)
-##### Học nhanh từ vựng, ngữ pháp, câu ví dụ với anki flashcard đầy đủ hình ảnh, ví dụ minh họa, âm thanh ...!
+##### Học nhanh từ vựng, ngữ pháp, câu ví dụ với anki flashcard đầy đủ hình ảnh, ví dụ minh họa, âm thanh mọi nơi từ trên ứng dụng , web , điện thoại . Ứng dụng mã nguồn mở và tất cả đều FREE!
 
 <img  src="DemoAnki.gif" alt="Anki Demo" width="100%" style="border-radius:10px;overflow:hidden">
 
