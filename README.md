@@ -28,6 +28,8 @@ Lúc cài về `Anki` trống trơn, tùy mục đích học mà có thể thêm
 3. 日本語 - 文法
 * Gồm gần 2000 **ngữ pháp** từ N5 đến N1 Tiếng Nhật
 
+<i>Note : các bộ thẻ trên đã được mình làm lại (thêm hình ảnh, âm thanh, nghĩa tiếng Việt ...) để mn dễ tiếp cận hơn.</i>
+
 ##### Tham khảo các bộ thẻ (Anki Decks) được chia sẻ công khai ở đây ([here](https://ankiweb.net/shared/decks/japanese))
 
-<p dir='rtl'>_Update 2022/03/02_</p>
+<p dir='rtl'><i>_Update 2022/03/02_</i></p>
