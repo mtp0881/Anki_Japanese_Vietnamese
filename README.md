@@ -13,7 +13,7 @@
 
 Lúc cài về `Anki` trống trơn, tùy mục đích học mà có thể thêm các kiểu flashcard khác nhau vào, để tránh mất thời gian thì mình nghĩ dùng những bộ thẻ anki đã được làm sẵn:
 
-1. Download các files Anki Decks và giải nén ra: [Link Google Drive (zip)](https://drive.google.com/drive/folders/19H71V6v9CIvRM4mQ0pNLqtXizDpOR3r8?usp=sharing)
+1. Download các files Anki Decks: [Link Google Drive (zip)](https://drive.google.com/drive/folders/19H71V6v9CIvRM4mQ0pNLqtXizDpOR3r8?usp=sharing)
 
 2. Bật `Anki`, chọn `File > Import`<br>
     Chọn đường dẫn đến thư mục Anki Decks vừa tải về và đã giải nén. 
